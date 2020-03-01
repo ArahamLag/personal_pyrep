@@ -1,0 +1,5 @@
+cd - go to home directory
+mkdir github_repos  create a new folder named github_ repos
+cd github_repos go to that github_repos
+git clone https_path_to_github_repo>  clone the githug repo
+cad<name_of_repo>

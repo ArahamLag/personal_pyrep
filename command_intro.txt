@@ -1,0 +1,23 @@
+User Tab to auto-complete
+----
+mkdir
+ls
+ls -la
+cd
+cd ..  go back to the previous folder
+pwd
+clear
+cd -
+
+cat file_name to see what is inside that file from terminal
+nano to create edit a file of any type
+
+git status shows the status of your git repo
+git add. (adds all the changes. unstaged changes --> staged changes)
+
+git commit  -m "commit_messages"
+
+git config --list
+
+git config user.name "someone"
+git config user.email "someone@someplace.com"
